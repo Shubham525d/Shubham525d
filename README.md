@@ -7,8 +7,7 @@ AI & Data Science Student | Data Analytics | Machine Learning
 <p align="center">
 🏆 SPARX 2.0 3rd Prize Winner <br>
 🚀 Smart India Hackathon Participant <br>
-🎯 GATE 2026 Aspirant <br>
-🇩🇪 Targeting MS in Data Science (Germany)
+🎯 GATE 2027 Aspirant <br>
 </p>
 
 ---
@@ -26,13 +25,13 @@ AI & Data Science Student | Data Analytics | Machine Learning
 ## 🛠️ Tech Stack
 
 ### Languages
-Python • SQL • C++
+Python • SQL • Java
 
 ### Data Analytics
-Pandas • NumPy • Matplotlib • Power BI
+Pandas • NumPy • Excel • Power BI 
 
 ### Machine Learning
-Scikit-Learn • Regression • Classification
+Scikit-Learn • Regression • Classification • Random Rain Forest
 
 ### Tools
 Git • GitHub • Firebase • FastAPI
@@ -57,8 +56,8 @@ AI-powered healthcare assistant designed to provide intelligent health insights 
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
-- LeetCode: Add your LeetCode URL
+- LinkedIn: https://www.linkedin.com/in/shubham-bhagat1/
+- LeetCode: https://leetcode.com/u/Shubham-bhagat/
 
 ---
 
